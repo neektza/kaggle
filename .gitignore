@@ -1,0 +1,4 @@
+**/plots/
+**/data/
+.vscode/
+**/.DS_Store
